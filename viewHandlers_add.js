@@ -18,3 +18,9 @@ nodeHandlers.root.override({
 nodeHandlers.npview.override({
 	viewAs: ['nowplaying','tracklist','simpleTracklist','albumlist']
 })
+
+viewHandlers.nowplaying.override({
+  title: function() {
+    return _('Now Playing View')
+  }
+})
