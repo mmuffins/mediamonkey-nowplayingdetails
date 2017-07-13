@@ -16,5 +16,5 @@ nodeHandlers.root.override({
 })
 
 nodeHandlers.npview.override({
-  viewAs: ['tracklist', 'nowplaying']
+	viewAs: ['nowplaying','tracklist','simpleTracklist','albumlist']
 })
