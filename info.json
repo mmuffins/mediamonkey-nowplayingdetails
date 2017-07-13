@@ -1,0 +1,8 @@
+{
+  "title": "NowPlaying Details",
+	"id": "nowPlayingDetails",
+  "description": "Adds additional views to the now playing node",
+  "version": "1.0.0",
+  "type": "general",
+  "author": "Michael Kellner"
+}
